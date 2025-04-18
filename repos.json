@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
+      "name": "zee",
+      "repo": "https://github.com/anandhan07/kernel_xiaomi_vince",
       "branch": "TDA",
-      "device": "odin"
+      "device": "vince"
     },
     "withKernelSU": true,
     "toolchains": [
